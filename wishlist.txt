@@ -1,3 +1,3 @@
-// Trinary System (PvE)
+// Trinary System (PvP)
 //notes:PvE-
 dimwishlist:item=3258665412&perks=1392496348,3868766766,280464955,2213355989
