@@ -1,3 +1,7 @@
 // Trinary System (PvP)
 //notes:PvE-
 dimwishlist:item=3258665412&perks=1392496348,3868766766,280464955,2213355989
+
+// Out of Bounds (PvE)
+//notes:PvE-
+dimwishlist:item=2988121501&perks=1467527085,3230963543,3523296417,11612903
